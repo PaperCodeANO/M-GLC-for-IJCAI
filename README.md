@@ -40,3 +40,9 @@ tqdm==4.66.1
 
 ## Usage
 sh sample_script/script.sh
+
+## Data and pretrained model
+We use the same data and pretrained model as Pin-tuning and GS-meta
+
+For the data used in the experiments, please download data.zip from this page, then extract it and save the contents in the ./data/ directory.
+https://github.com/HICAI-ZJU/GS-Meta/releases
