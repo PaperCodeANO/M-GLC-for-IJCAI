@@ -19,12 +19,21 @@ Thank you for your time and consideration.
 ## Requirements
 
 Python >= 3.9
+
 PyTorch >= 1.12.1
+
 torch_geometric >= 2.3.1
+
 torch_scatter==2.1.0
+
 rdkit==2023.3.3
+
 learn2learn==0.2.0
+
 numpy==1.26.4
+
 scikit_learn==1.4.0
+
 seaborn==0.13.2
+
 tqdm==4.66.1
