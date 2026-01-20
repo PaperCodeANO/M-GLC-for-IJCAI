@@ -37,3 +37,6 @@ scikit_learn==1.4.0
 seaborn==0.13.2
 
 tqdm==4.66.1
+
+## Usage
+sh sample_script/script.sh
