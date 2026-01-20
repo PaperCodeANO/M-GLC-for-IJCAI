@@ -1,0 +1,9 @@
+
+**/processed/
+/*.txt
+/data
+dump/
+logs/
+debug_log/
+__pycache__/
+.sh
